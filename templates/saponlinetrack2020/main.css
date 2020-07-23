@@ -1,0 +1,46 @@
+.sapOnlineTrackLogoLeft {
+    width: 40%;
+    height: 80%;
+    position: absolute;
+    left: 2%;
+    top: 0;
+    background-image: url("./img/sapOnlineTrack2020Logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+	background-position: left;
+}
+
+.speakerDetails {
+    font-size: 2.5rem !important;
+    margin-top: 2% !important;
+	color: black !important;
+	text-align: justify;
+}
+
+.sessionDetails {
+    font-size: 2rem !important;
+    margin-top: 2% !important;
+    color: black !important;
+}
+
+.verticalCenter {
+    margin: 0;
+    position: absolute;
+    top: 50%;;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.right {
+    right: 0;
+}
+
+.textAlignLeft {
+    text-align: left;
+}
+
+.StartEndTitle {
+    width: 50% !important;
+	font-size: 3.8rem !important;
+	margin-right: 2% !important;
+}
